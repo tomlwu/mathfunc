@@ -1,0 +1,6 @@
+function M = matkron3D(A,B)
+%MATKRON3D multiply 3D matrices A and B such that M(:,:,i) =
+%kron(A(:,:,i),B*(:,:,i))
+
+end
+
